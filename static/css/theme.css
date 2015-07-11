@@ -1,0 +1,61 @@
+/* Header */
+header .navbar-brand {
+    background-image: url("http://api.team3.org/IMG/MINEPROJECT/head.jpg");
+    background-size: cover;
+    height: 80px;
+    color: #fff !important;
+    padding: 30px 50px 20px 50px;
+    font-size: 20px;
+
+}
+header {
+    margin-top: 0px;
+    margin-bottom: 20px !important;
+}
+.navbar {
+    margin-bottom: 0;
+    background-color: #6bcdff;
+    border-bottom: none;
+    background-size: cover;
+}
+.navbar-default .navbar-nav>li>a, .navbar-default .navbar-nav>li>a:hover {
+    color: #fff;
+    padding: 30px 20px;
+}
+
+/* Footer */
+section.footer {
+    background-color: #6bcdff;
+    padding: 20px;
+    text-align: center;
+    color: #fff;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 0px;
+}
+.btn {
+    border: none;
+}
+.btn-fullwidth {
+    width: 100%;
+}
+.btn-group {
+    width: 100%;
+    min-width: 100%;
+}
+.btn-group .half {
+    width: 50%
+}
+.btn:hover {
+
+}
+
+/* Projects */
+img.preview {
+    width: 100%;
+}
+.row.project {
+    margin-bottom: 20px;
+}
